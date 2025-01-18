@@ -1,72 +1,93 @@
-Copyright 2025 ceyhcn
+Elastic License 2.0
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+URL: https://www.elastic.co/licensing/elastic-license
 
-    http://www.apache.org/licenses/LICENSE-2.0
+## Acceptance
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+By using the software, you agree to all of the terms and conditions below.
 
-SazaTweak License Agreement:
+## Copyright License
 
-1. **Program Description**
-   SazaTweak is a system optimization tool designed to enhance the performance of personal computers by applying various system tweaks and adjustments. The primary goal of SazaTweak is to streamline computer processes, improve memory management, and provide users with more control over system settings. SazaTweak aims to optimize the performance of the operating system and associated software by modifying configuration settings that are typically not exposed through standard user interfaces.
+The licensor grants you a non-exclusive, royalty-free, worldwide,
+non-sublicensable, non-transferable license to use, copy, distribute, make
+available, and prepare derivative works of the software, in each case subject to
+the limitations and conditions below.
 
-2. **Grant of Rights**
-   Under the terms of the Apache License, Version 2.0, you are granted the following rights:
-   
-   a. **Use**: You are allowed to use, run, and execute SazaTweak, either for personal or commercial purposes, without any limitation, provided that you comply with the terms of this License.
-   
-   b. **Modification**: You may modify the software to suit your needs. However, any modifications or derived works you create must include a prominent notice stating that you have changed the software and that the original version was created by ceyhcn. This helps ensure transparency for other users.
-   
-   c. **Distribution**: You are allowed to distribute copies of SazaTweak, whether in its original form or modified, provided you include this License in all copies or substantial portions of the software. Any modifications must also be clearly identified as such.
-   
-   d. **Private Use**: You may also use this software privately or within your organization without restrictions. However, you may not distribute the software without complying with the License requirements.
+## Limitations
 
-3. **Conditions and Obligations**
-   In order to use, modify, or distribute SazaTweak under this License, you must comply with the following conditions:
+You may not provide the software to third parties as a hosted or managed
+service, where the service provides users with access to any substantial set of
+the features or functionality of the software.
 
-   a. **Attribution**: You must retain the copyright notice, this list of conditions, and the following disclaimer in all copies or substantial portions of the software. If you distribute a modified version, you must clearly state the modifications made to the original software.
-   
-   b. **Notice**: If you redistribute the software in any form, you must provide a copy of this License along with it. If you distribute the software via an online repository, you must ensure that the License is accessible to all users.
-   
-   c. **License for Modified Versions**: Any modified versions of SazaTweak that are redistributed must be licensed under the same Apache License 2.0. This means that anyone who receives a modified version also receives the same rights under this License, ensuring that the software remains open source.
+You may not move, change, disable, or circumvent the license key functionality
+in the software, and you may not remove or obscure any functionality in the
+software that is protected by the license key.
 
-4. **No Warranty**
-   SazaTweak is provided "as-is", without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the copyright holder or contributors be liable for any damages arising from the use or inability to use the software, including but not limited to direct, indirect, incidental, special, exemplary, or consequential damages, or loss of profits, even if advised of the possibility of such damages.
+You may not alter, remove, or obscure any licensing, copyright, or other notices
+of the licensor in the software. Any use of the licensor’s trademarks is subject
+to applicable law.
 
-   By using, modifying, or distributing SazaTweak, you acknowledge and agree that you are doing so at your own risk, and that the copyright holders are not responsible for any issues that may arise as a result of using the software.
+## Patents
 
-5. **Disclaimer**
-   The software is intended for personal or organizational optimization and is not guaranteed to work perfectly on all systems or configurations. While efforts have been made to ensure that SazaTweak improves system performance, it may not be suitable for all use cases or systems. It is recommended that users back up their data and settings before applying any system tweaks.
+The licensor grants you a license, under any patent claims the licensor can
+license, or becomes able to license, to make, have made, use, sell, offer for
+sale, import and have imported the software, in each case subject to the
+limitations and conditions in this license. This license does not cover any
+patent claims that you cause to be infringed by modifications or additions to
+the software. If you or your company make any written claim that the software
+infringes or contributes to infringement of any patent, your patent license for
+the software granted under these terms ends immediately. If your company makes
+such a claim, your patent license ends immediately for work on behalf of your
+company.
 
-   SazaTweak does not guarantee compatibility with any specific hardware or software, and it is not responsible for any negative impacts it may have on the system or data during use. It is essential for users to assess the risks and benefits before applying any optimizations, especially in production environments.
+## Notices
 
-6. **Limitation of Liability**
-   In no event shall the copyright holder, contributors, or anyone associated with the development of SazaTweak be held liable for any damages, including but not limited to:
-   
-   a. Loss of data, files, or software.
-   b. System downtime, performance issues, or loss of system functionality.
-   c. Financial loss or business interruptions arising from the use of SazaTweak.
-   
-   Users of SazaTweak are solely responsible for any consequences of using the software, and they agree to indemnify and hold harmless the copyright holder, contributors, and any affiliated parties from any claims, damages, or liabilities arising from the use of this software.
+You must ensure that anyone who gets a copy of any part of the software from you
+also gets a copy of these terms.
 
-7. **Termination**
-   This License is effective until terminated. You may terminate it at any time by discontinuing the use of the software. If you fail to comply with any of the conditions set forth in this License, your rights under the License will automatically terminate. Upon termination, you must cease all use, modification, and distribution of the software and destroy any copies of the software in your possession.
+If you modify the software, you must include in any modified copies of the
+software prominent notices stating that you have modified the software.
 
-8. **General Provisions**
-   a. This License constitutes the entire agreement between you and the copyright holder regarding the software and supersedes all prior agreements or communications, whether oral or written.
-   
-   b. If any provision of this License is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
-   
-   c. This License is governed by the laws of the jurisdiction in which the copyright holder resides, and any disputes arising out of this License will be subject to the exclusive jurisdiction of the courts in that jurisdiction.
+## No Other Rights
 
-9. **Acknowledgements**
-   By using, modifying, or distributing SazaTweak, you acknowledge that you have read and understood the terms of this License and agree to comply with all its conditions. If you do not agree to the terms of this License, you must not use or distribute SazaTweak.
+These terms do not imply any licenses other than those expressly granted in
+these terms.
 
-End of License Agreement.
+## Termination
+
+If you use the software in violation of these terms, such use is not licensed,
+and your licenses will automatically terminate. If the licensor provides you
+with a notice of your violation, and you cease all violation of this license no
+later than 30 days after you receive that notice, your licenses will be
+reinstated retroactively. However, if you violate these terms after such
+reinstatement, any additional violation of these terms will cause your licenses
+to terminate automatically and permanently.
+
+## No Liability
+
+*As far as the law allows, the software comes as is, without any warranty or
+condition, and the licensor will not be liable to you for any damages arising
+out of these terms or the use or nature of the software, under any kind of
+legal claim.*
+
+## Definitions
+
+The **licensor** is the entity offering these terms, and the **software** is the
+software the licensor makes available under these terms, including any portion
+of it.
+
+**you** refers to the individual or entity agreeing to these terms.
+
+**your company** is any legal entity, sole proprietorship, or other kind of
+organization that you work for, plus all organizations that have control over,
+are under the control of, or are under common control with that
+organization. **control** means ownership of substantially all the assets of an
+entity, or the power to direct its management and policies by vote, contract, or
+otherwise. Control can be direct or indirect.
+
+**your licenses** are all the licenses granted to you for the software under
+these terms.
+
+**use** means anything you do with the software requiring one of your licenses.
+
+**trademark** means trademarks, service marks, and similar rights.
