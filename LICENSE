@@ -1,0 +1,72 @@
+Copyright 2025 ceyhcn
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SazaTweak License Agreement:
+
+1. **Program Description**
+   SazaTweak is a system optimization tool designed to enhance the performance of personal computers by applying various system tweaks and adjustments. The primary goal of SazaTweak is to streamline computer processes, improve memory management, and provide users with more control over system settings. SazaTweak aims to optimize the performance of the operating system and associated software by modifying configuration settings that are typically not exposed through standard user interfaces.
+
+2. **Grant of Rights**
+   Under the terms of the Apache License, Version 2.0, you are granted the following rights:
+   
+   a. **Use**: You are allowed to use, run, and execute SazaTweak, either for personal or commercial purposes, without any limitation, provided that you comply with the terms of this License.
+   
+   b. **Modification**: You may modify the software to suit your needs. However, any modifications or derived works you create must include a prominent notice stating that you have changed the software and that the original version was created by ceyhcn. This helps ensure transparency for other users.
+   
+   c. **Distribution**: You are allowed to distribute copies of SazaTweak, whether in its original form or modified, provided you include this License in all copies or substantial portions of the software. Any modifications must also be clearly identified as such.
+   
+   d. **Private Use**: You may also use this software privately or within your organization without restrictions. However, you may not distribute the software without complying with the License requirements.
+
+3. **Conditions and Obligations**
+   In order to use, modify, or distribute SazaTweak under this License, you must comply with the following conditions:
+
+   a. **Attribution**: You must retain the copyright notice, this list of conditions, and the following disclaimer in all copies or substantial portions of the software. If you distribute a modified version, you must clearly state the modifications made to the original software.
+   
+   b. **Notice**: If you redistribute the software in any form, you must provide a copy of this License along with it. If you distribute the software via an online repository, you must ensure that the License is accessible to all users.
+   
+   c. **License for Modified Versions**: Any modified versions of SazaTweak that are redistributed must be licensed under the same Apache License 2.0. This means that anyone who receives a modified version also receives the same rights under this License, ensuring that the software remains open source.
+
+4. **No Warranty**
+   SazaTweak is provided "as-is", without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the copyright holder or contributors be liable for any damages arising from the use or inability to use the software, including but not limited to direct, indirect, incidental, special, exemplary, or consequential damages, or loss of profits, even if advised of the possibility of such damages.
+
+   By using, modifying, or distributing SazaTweak, you acknowledge and agree that you are doing so at your own risk, and that the copyright holders are not responsible for any issues that may arise as a result of using the software.
+
+5. **Disclaimer**
+   The software is intended for personal or organizational optimization and is not guaranteed to work perfectly on all systems or configurations. While efforts have been made to ensure that SazaTweak improves system performance, it may not be suitable for all use cases or systems. It is recommended that users back up their data and settings before applying any system tweaks.
+
+   SazaTweak does not guarantee compatibility with any specific hardware or software, and it is not responsible for any negative impacts it may have on the system or data during use. It is essential for users to assess the risks and benefits before applying any optimizations, especially in production environments.
+
+6. **Limitation of Liability**
+   In no event shall the copyright holder, contributors, or anyone associated with the development of SazaTweak be held liable for any damages, including but not limited to:
+   
+   a. Loss of data, files, or software.
+   b. System downtime, performance issues, or loss of system functionality.
+   c. Financial loss or business interruptions arising from the use of SazaTweak.
+   
+   Users of SazaTweak are solely responsible for any consequences of using the software, and they agree to indemnify and hold harmless the copyright holder, contributors, and any affiliated parties from any claims, damages, or liabilities arising from the use of this software.
+
+7. **Termination**
+   This License is effective until terminated. You may terminate it at any time by discontinuing the use of the software. If you fail to comply with any of the conditions set forth in this License, your rights under the License will automatically terminate. Upon termination, you must cease all use, modification, and distribution of the software and destroy any copies of the software in your possession.
+
+8. **General Provisions**
+   a. This License constitutes the entire agreement between you and the copyright holder regarding the software and supersedes all prior agreements or communications, whether oral or written.
+   
+   b. If any provision of this License is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
+   
+   c. This License is governed by the laws of the jurisdiction in which the copyright holder resides, and any disputes arising out of this License will be subject to the exclusive jurisdiction of the courts in that jurisdiction.
+
+9. **Acknowledgements**
+   By using, modifying, or distributing SazaTweak, you acknowledge that you have read and understood the terms of this License and agree to comply with all its conditions. If you do not agree to the terms of this License, you must not use or distribute SazaTweak.
+
+End of License Agreement.
